@@ -24,7 +24,7 @@ Frontend for product management system built with:
 ```bash
 npm install
 
-2. renamve env.local to .env
+2. rename env.local to .env
 
 3. run dev server
 npm run dev
